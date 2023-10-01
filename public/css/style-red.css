@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #be3131;
+  color: #7331be;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,7 +39,7 @@ a:hover {
 }
 
 .color-a {
-  color: #be3131;
+  color: #7331be;
 }
 
 .color-d {
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #be3131;
+  background-color: #7331be;
 }
 
 .overlay-mf {
@@ -100,7 +100,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .7;
+  opacity: 0.7;
 }
 
 .paralax-mf {
@@ -160,7 +160,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #be3131;
+  background-color: #7331be;
   margin: 0 auto;
 }
 
@@ -176,10 +176,10 @@ a:hover {
 }
 
 .title-left:before {
-  content: '';
+  content: "";
   position: absolute;
   height: 3px;
-  background-color: #be3131;
+  background-color: #7331be;
   width: 100px;
   bottom: -12px;
 }
@@ -216,12 +216,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #be3131;
+  box-shadow: 0 0 0 3px #7331be;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #be3131;
+  background-color: #7331be;
   color: #fff;
   box-shadow: 0 0 0 3px #f5dcdc;
   transition: all 500ms ease;
@@ -246,7 +246,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #be3131;
+  color: #7331be;
   margin-right: 10px;
 }
 
@@ -260,7 +260,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #be3131;
+  box-shadow: 0 0 0 10px #7331be;
   display: block;
 }
 
@@ -291,7 +291,7 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #1B1B1B;
+  background-color: #1b1b1b;
   width: 25px;
 }
 
@@ -307,8 +307,8 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #be3131;
-  opacity: .7;
+  background-color: #7331be;
+  opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
@@ -326,7 +326,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #be3131;
+  background: #7331be;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -364,7 +364,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #be3131;
+  border-top: 6px solid #7331be;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -401,7 +401,7 @@ a:hover {
 ======================================*/
 
 .navbar-b {
-  transition: all .5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   background-color: transparent;
   padding-top: 1.563rem;
   padding-bottom: 1.563rem;
@@ -427,7 +427,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link:before,
 .navbar-b.navbar-reduce .nav-link:before {
-  content: '';
+  content: "";
   position: absolute;
   margin-left: 0px;
   width: 0%;
@@ -439,7 +439,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link:hover,
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #1B1B1B;
+  color: #1b1b1b;
 }
 
 .navbar-b.navbar-trans .nav-link:hover:before,
@@ -474,37 +474,37 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce {
-  transition: all .5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   background-color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #be3131;
+  color: #7331be;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #be3131;
+  background-color: #7331be;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #be3131;
+  color: #7331be;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #be3131;
+  color: #7331be;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #be3131;
+  color: #7331be;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
-  background-color: #1B1B1B;
+  background-color: #1b1b1b;
 }
 
 .navbar-b .navbar-brand {
@@ -527,18 +527,18 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item {
-  padding: .7rem 1.7rem;
+  padding: 0.7rem 1.7rem;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #be3131;
+  background-color: #7331be;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #be3131;
+  background-color: #7331be;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -567,9 +567,9 @@ a:hover {
 
 .navbar-toggler span:nth-child(1),
 .navbar-toggler span:nth-child(3) {
-  transition: -webkit-transform .35s ease-in-out;
-  transition: transform .35s ease-in-out;
-  transition: transform .35s ease-in-out, -webkit-transform .35s ease-in-out;
+  transition: -webkit-transform 0.35s ease-in-out;
+  transition: transform 0.35s ease-in-out;
+  transition: transform 0.35s ease-in-out, -webkit-transform 0.35s ease-in-out;
 }
 
 .navbar-toggler:not(.collapsed) span:nth-child(1) {
@@ -619,7 +619,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .9;
+  opacity: 0.9;
 }
 
 .intro .intro-title {
@@ -652,7 +652,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #be3131;
+  color: #7331be;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -676,6 +676,11 @@ a:hover {
   padding-bottom: 4rem;
 }
 
+#about-section {
+  display: flex;
+  align-items: center;
+}
+
 .about-mf .about-img {
   margin-bottom: 2rem;
 }
@@ -690,14 +695,14 @@ a:hover {
 
 .skill-mf .progress {
   background-color: #f5dcdc;
-  margin: .5rem 0 1.2rem 0;
+  margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
-  height: .7rem;
+  height: 0.7rem;
 }
 
 .skill-mf .progress .progress-bar {
-  height: .7rem;
-  background-color: #be3131;
+  height: 0.7rem;
+  background-color: #7331be;
 }
 
 /*======================================
@@ -714,7 +719,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #be3131;
+  background-color: #7331be;
   box-shadow: 0 0 0 10px #f5dcdc;
 }
 
@@ -732,7 +737,7 @@ a:hover {
   font-size: 1.4rem;
   text-transform: uppercase;
   text-align: center;
-  padding: .4rem 0;
+  padding: 0.4rem 0;
 }
 
 .service-box .s-description {
@@ -795,25 +800,25 @@ a:hover {
 
 .work-content .w-more {
   color: #4e4e4e;
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .work-content .w-more .w-ctegory {
-  color: #be3131;
+  color: #7331be;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #be3131;
+  color: #7331be;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #be3131;
+  color: #7331be;
 }
 
 .work-content .w-like .num-like {
-  font-size: .7rem;
+  font-size: 0.7rem;
 }
 
 .w-title {
@@ -852,7 +857,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #be3131;
+  color: #7331be;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -885,7 +890,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #be3131;
+  background-color: #7331be;
   border-radius: 4px;
 }
 
@@ -893,14 +898,14 @@ a:hover {
   color: #fff;
   display: inline-block;
   text-transform: uppercase;
-  font-size: .7rem;
-  letter-spacing: .1px;
+  font-size: 0.7rem;
+  letter-spacing: 0.1px;
   margin-bottom: 0;
 }
 
 .card-blog .card-title {
   font-size: 1.3rem;
-  margin-top: .6rem;
+  margin-top: 0.6rem;
 }
 
 .card-blog .card-description {
@@ -939,7 +944,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #be3131;
+  border-left: 4px solid #7331be;
   margin-top: 1rem;
 }
 
@@ -949,7 +954,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #be3131;
+  color: #7331be;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -957,7 +962,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #be3131;
+  border-left: 4px solid #7331be;
   padding: 18px;
   font-style: italic;
 }
@@ -989,7 +994,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #be3131;
+  color: #7331be;
 }
 
 .box-comments .list-comments span {
@@ -1006,7 +1011,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #be3131;
+  border-left: 5px solid #7331be;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1023,7 +1028,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #be3131;
+  background-color: #7331be;
   top: 20px;
 }
 
@@ -1034,8 +1039,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #be3131;
-  border-color: #be3131;
+  background-color: #7331be;
+  border-color: #7331be;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1043,9 +1048,9 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #be3131;
-  padding: .2rem .6rem;
-  margin-bottom: .5rem;
+  background-color: #7331be;
+  padding: 0.2rem 0.6rem;
+  margin-bottom: 0.5rem;
   border-radius: 15px;
 }
 
@@ -1076,7 +1081,7 @@ footer {
 }
 
 footer .copyright {
-  margin-bottom: .3rem;
+  margin-bottom: 0.3rem;
 }
 
 footer .credits {
@@ -1092,8 +1097,8 @@ footer .credits a {
 ======================================*/
 
 #sendmessage {
-  color: #be3131;
-  border: 1px solid #be3131;
+  color: #7331be;
+  border: 1px solid #7331be;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1131,7 +1136,7 @@ footer .credits a {
 
 .button {
   display: inline-block;
-  padding: .3rem .6rem;
+  padding: 0.3rem 0.6rem;
   text-align: center;
   vertical-align: middle;
   -webkit-user-select: none;
@@ -1139,7 +1144,7 @@ footer .credits a {
   -ms-user-select: none;
   user-select: none;
   font-size: 1rem;
-  border-radius: .3rem;
+  border-radius: 0.3rem;
   border: 1px solid transparent;
   transition: all 500ms ease;
   cursor: pointer;
@@ -1156,13 +1161,13 @@ footer .credits a {
 }
 
 .button-a {
-  background-color: #be3131;
+  background-color: #7331be;
   color: #fff;
   border-color: #f5dcdc;
 }
 
 .button-big {
-  padding: .9rem 2.3rem;
+  padding: 0.9rem 2.3rem;
   font-size: 1.2rem;
 }
 
@@ -1171,10 +1176,10 @@ footer .credits a {
 }
 
 .btn-lg {
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
   font-size: 1.25rem;
   line-height: 1.5;
-  border-radius: .3rem;
+  border-radius: 0.3rem;
 }
 
 @media (min-width: 577px) {
