@@ -1,0 +1,16 @@
+.grid {
+  display: grid;
+}
+
+.text-2xl {
+  font: var(--text-title-lg);
+  color: var(--color-gray-600);
+}
+
+.text-md {
+  font: var(--text-md)
+}
+
+.text-subtitle {
+  font: var(--text-subtitle);
+}
