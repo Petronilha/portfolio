@@ -31,3 +31,7 @@
 .color-red {
   color: var(--color-red);
 }
+
+.color-purple {
+  color: var(--color-purple);
+}

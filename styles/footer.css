@@ -1,0 +1,20 @@
+footer {
+  background-image: url(../assets/Background_Contacts.png);
+  background-size: cover;
+
+  section {
+    margin-top: 128px;
+  }
+
+
+  div {
+    gap: 16px;
+    justify-content: center;
+
+  }
+  figure {
+    display: flex;
+    align-items: center;
+    background-color: var(--color-gray-300);
+  }
+}
