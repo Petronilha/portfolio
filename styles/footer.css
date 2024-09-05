@@ -6,15 +6,36 @@ footer {
     margin-top: 128px;
   }
 
-
   div {
     gap: 16px;
     justify-content: center;
-
+    margin-top: 48px;
+    margin-bottom: 200px;
   }
-  figure {
-    display: flex;
-    align-items: center;
+
+  
+  a {
     background-color: var(--color-gray-300);
+    border: 1px solid var(--color-gray-300);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 400px;
+    border-radius: 8px;
+  }
+
+  a:hover {
+    border: 1px solid var(--color-blue);
+  }
+}
+
+.site {
+  margin: 0;
+  display: flex;
+  align-items: center; 
+  gap: 12px;
+
+  span {
+    color: var(--color-gray-500);
   }
 }

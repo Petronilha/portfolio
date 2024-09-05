@@ -18,12 +18,14 @@
 }
 
 .text-md {
-  font: var(--text-md)
+  font: var(--text-md);
+  color: var(--color-gray-500);
 }
 
 .text-subtitle {
   font: var(--text-subtitle);
 }
+
 
 .gap-56 {
   gap: 56px;

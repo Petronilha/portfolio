@@ -44,17 +44,21 @@ nav {
   }
 }
 
-#stacks {
-  display: flex;
-  gap: 16px;
-
-  a {
+#stacks {  
+  ul {
+    list-style: none;
     display: flex;
-    align-items: center;
-    gap: 8px;
+    flex-direction: row;
+    gap: 16px;
+  }
+  
+  ul li {
+    display: flex;
     background-color: var(--color-gray-300);
     border-radius: 999px;
     padding: 8px 16px;
+    align-items: center;
+    gap: 8px;
   }
 
 }
