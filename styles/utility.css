@@ -7,10 +7,27 @@
   color: var(--color-gray-600);
 }
 
+.text-xl {
+  font:var(--text-title-md);
+  color: var(--color-gray-600);
+}
+
+.text-lg {
+  font: var(--text-title-sm);
+  color: var(--color-gray-600);
+}
+
 .text-md {
   font: var(--text-md)
 }
 
 .text-subtitle {
   font: var(--text-subtitle);
+}
+
+.gap-56 {
+  gap: 56px;
+}
+.color-red {
+  color: var(--color-red);
 }

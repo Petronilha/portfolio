@@ -1,12 +1,12 @@
 header {
   background-image: url(../assets/Background_Intro.png);
   background-size: cover;
-  max-height: 750px;
   margin: auto;
 
   #arrow {
     text-align: center;
     margin-top: 100px;
+    padding-bottom: 60px;
   }
 }
 
